@@ -1,0 +1,13 @@
+.menu__menu-btn {
+  min-width: 50px;
+  min-height: 50px;
+  background-image: url('../../../images/menu-btnpng.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  cursor: pointer;
+}
+
+.menu__menu-btn:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}

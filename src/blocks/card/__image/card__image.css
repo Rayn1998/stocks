@@ -1,0 +1,6 @@
+.card__image {
+  display: block;
+  min-width: 300px;
+  min-height: 300px;
+  overflow: hidden;
+}

@@ -1,0 +1,9 @@
+.header-btn {
+  background-color: black;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.header-btn:hover {
+  background-color: rgb(114, 215, 81);
+}
